@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Thing 1",
+    "category": "Athletic",
+    "imgSrc": "/img/img1.jpg"
+  },
+  {
+    "title": "Thing 2",
+    "category": "Athletic",
+    "imgSrc": "/img/img1.jpg"
+  },
+  {
+    "title": "Thing 3",
+    "category": "Athletic",
+    "imgSrc": "/img/img1.jpg"
+  },
+  {
+    "title": "Simple 4",
+    "category": "Simple",
+    "imgSrc": "/img/img1.jpg"
+  }
+]

@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,6 +29,22 @@ h1 {
 h2 {
   margin-bottom: 0.5rem;
   opacity: 0.6;
+}
+
+.catalogItem {
+  width: 100px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.showcase[data-display='true'] {
+  display: contents;
+}
+.showcase[data-display='false'] {
+  display: none;
 }
 
 @media (max-width: 700px) {
